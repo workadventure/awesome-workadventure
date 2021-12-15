@@ -16,7 +16,8 @@ Feel free to open a PR to add your creations!
 
 _A list of beautiful WorkAdventure maps_
 
-- [Christmas map](https://github.com/workadventure/christmas-map) ([demo](https://play.workadventu.re/_/global/workadventure.github.io/christmas-map/map.json) / [register](https://workadventu.re/getting-started?mapUrl=https://workadventure.github.io/christmas-map/map.json)) - A beautiful Christmas map
+- [Christmas forest](https://himeshaman.github.io/ChristMap/map.json) ([demo](https://play.workadventu.re/_/global/himeshaman.github.io/ChristMap/map.json) / [register](https://workadventu.re/getting-started?mapUrl=https://himeshaman.github.io/ChristMap/map.json)) - A beautiful Christmas map in the forest, with Santa Claus
+- [Christmas market](https://github.com/workadventure/christmas-map) ([demo](https://play.workadventu.re/_/global/workadventure.github.io/christmas-map/map.json) / [register](https://workadventu.re/getting-started?mapUrl=https://workadventure.github.io/christmas-map/map.json)) - A beautiful Christmas market
 
 ## Tilesets
 
