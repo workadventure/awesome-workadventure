@@ -18,6 +18,7 @@ _A list of beautiful WorkAdventure maps_
 
 - [Christmas forest](https://himeshaman.github.io/ChristMap/map.json) ([demo](https://play.workadventu.re/_/global/himeshaman.github.io/ChristMap/map.json) / [register](https://workadventu.re/getting-started?mapUrl=https://himeshaman.github.io/ChristMap/map.json)) - A beautiful Christmas map in the forest, with Santa Claus
 - [Christmas market](https://github.com/workadventure/christmas-map) ([demo](https://play.workadventu.re/_/global/workadventure.github.io/christmas-map/map.json) / [register](https://workadventu.re/getting-started?mapUrl=https://workadventure.github.io/christmas-map/map.json)) - A beautiful Christmas market
+- [A dynamic map server](https://github.com/jonnytest1/workadventure-mapserver) ([demo](https://play.workadventu.re/_/global/pi4.e6azumuvyiabvs9s.myfritz.net/mapserver/rest/mapserver/site.json) - A server generating *dynamic maps* (!!!)
 
 ## Tilesets
 
