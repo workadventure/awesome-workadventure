@@ -39,7 +39,7 @@ _A list of tutorials / guides_
 
 _A list of bots that can be added to your workadventure map_
 
-- [Pixel](https://github.com/rllola/wa-bot) - He is a bridge between the office/venue you created to others applications (e.g slack)
+- [Pixel](https://github.com/rllola/wa-bot) - Pixel is a bridge between the office/venue you created and other applications (e.g slack)
 
 ## Contributing
 
