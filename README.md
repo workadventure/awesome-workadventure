@@ -10,7 +10,7 @@ Feel free to open a PR to add your creations!
 - [Maps](#maps)
 - [Tilesets](#resources)
 - [Tutorials](#tutorials)
-
+- [Bots](#bots)
 
 ## Maps
 
@@ -35,6 +35,11 @@ _A list of tutorials / guides_
 - 🎥 [WorkAdventure - Return to Office without Returning to the Office!](https://www.youtube.com/watch?v=Yx6xSptPA5U)
 - [Community install guide](https://wiki.techinc.nl/Work-Adventure/install)
 
+## Bots
+
+_A list of bots that can be added to your workadventure map_
+
+- [Pixel](https://github.com/rllola/wa-bot) - Pixel is a bridge between the office/venue you created and other applications (e.g slack)
 
 ## Contributing
 
