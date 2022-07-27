@@ -34,6 +34,7 @@ _A list of tutorials / guides_
 - 🎥 [How to host/set up workadventure yourself! - (Ubuntu 20.04 Server) Tutorial](https://www.youtube.com/watch?v=NQrxne7lS34)
 - 🎥 [WorkAdventure - Return to Office without Returning to the Office!](https://www.youtube.com/watch?v=Yx6xSptPA5U)
 - [Community install guide](https://wiki.techinc.nl/Work-Adventure/install)
+- [Self-Hosting WorkAdventure in 7.2022](https://medium.com/@alan.max/self-hosting-workadventure-in-7-2022-8a192647a7f1)
 
 ## Bots
 
