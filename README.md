@@ -46,7 +46,7 @@ _A list of bots that can be added to your workadventure map_
 
 _A list of Packages/Libarys that can help you scripting your Maps_
 
-- [simple-workadveture](https://www.npmjs.com/package/simple-workadventure) - a Libary which simplifies the Workadveture API to simgle line commands and adds exta features such as a Camera Zoom Button
+- [simple-workadventure](https://www.npmjs.com/package/simple-workadventure) - a Libary which simplifies the Workadveture API to simgle line commands and adds exta features such as a Camera Zoom Button
 
 ## Contributing
 
