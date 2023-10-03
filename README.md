@@ -11,7 +11,7 @@ Feel free to open a PR to add your creations!
 - [Tilesets](#resources)
 - [Tutorials](#tutorials)
 - [Bots](#bots)
-- [Libarys](#libarys)
+- [Libraries](#libraries)
 
 ## Maps
 
@@ -42,11 +42,11 @@ _A list of bots that can be added to your workadventure map_
 
 - [Pixel](https://github.com/rllola/wa-bot) - Pixel is a bridge between the office/venue you created and other applications (e.g slack)
 
-## Libarys
+## Libraries
 
-_A list of Packages/Libarys that can help you scripting your Maps_
+_A list of packages / libraries that can help you scripting your maps_
 
-- [simple-workadventure](https://www.npmjs.com/package/simple-workadventure) - a Libary which simplifies the Workadveture API to simgle line commands and adds exta features such as a Camera Zoom Button
+- [simple-workadventure](https://www.npmjs.com/package/simple-workadventure) - a library which simplifies the Workadveture API to single line commands and adds extra features such as a Camera Zoom Button
 
 ## Contributing
 
