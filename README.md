@@ -49,6 +49,10 @@ _A list of packages / libraries that can help you scripting your maps_
 
 - [simple-workadventure](https://www.npmjs.com/package/simple-workadventure) - a library which simplifies the Workadveture API to single line commands and adds extra features such as a Camera Zoom Button
 
+## Deployment
+
+- [workadventure-k8s](https://github.com/klauserber/workadventure-k8s) - A helm chart to deploy workadventure on Kubernetes.
+
 ## Contributing
 
 Contributions are very welcome!
