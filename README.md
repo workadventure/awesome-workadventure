@@ -12,6 +12,7 @@ Feel free to open a PR to add your creations!
 - [Tutorials](#tutorials)
 - [Bots](#bots)
 - [Libraries](#libraries)
+- [Deployment](#deployment)
 
 ## Maps
 
@@ -48,6 +49,14 @@ _A list of bots that can be added to your workadventure map_
 _A list of packages / libraries that can help you scripting your maps_
 
 - [simple-workadventure](https://www.npmjs.com/package/simple-workadventure) - a library which simplifies the Workadveture API to single line commands and adds extra features such as a Camera Zoom Button
+
+## Deployment
+
+This section contains community contributed resources to deploy WorkAdventure on various platforms.
+Please note that the core team does not maintain these resources and supports only one installation method
+documented in the [official documentation](https://github.com/workadventure/workadventure/tree/master/contrib/docker).
+
+- [workadventure-k8s](https://github.com/klauserber/workadventure-k8s) - A helm chart to deploy workadventure on Kubernetes.
 
 ## Contributing
 
