@@ -38,6 +38,9 @@ _A list of tutorials / guides_
 - [Community install guide](https://wiki.techinc.nl/Work-Adventure/install)
 - [Self-Hosting WorkAdventure in 7.2022](https://medium.com/@alan.max/self-hosting-workadventure-in-7-2022-8a192647a7f1)
 
+## Extra-Features
+- 🚶‍♂️🔊 Step FX: This function adds footstep Sound-Effects to your Woka as you walk through the map. You can even define the material your Woka is walking on. Check out the repository [HERE](https://github.com/KomponentAB/stepFX)
+
 ## Bots
 
 _A list of bots that can be added to your workadventure map_
