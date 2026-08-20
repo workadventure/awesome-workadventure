@@ -56,6 +56,7 @@ _A list of packages / libraries that can help you scripting your maps_
 
 - [Visual Scipt Builder](https://github.com/klinshy/WA-visual-script-builder)
 - A comprehensive drag-and-drop visual programming interface for creating WorkAdventure map scripts without coding. This tool transforms complex TypeScript scripting into an intuitive block-based system similar to Scratch.
+- [npc-dialog-box](https://github.com/workadventure/npc-dialog-box) - a video-game-like NPC dialog box: multi-step dialogs with a Zelda-like typewriter effect, an avatar, and per-step hooks to move the camera or trigger any effect from your map script
 
 ## Deployment
 
