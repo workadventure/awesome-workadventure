@@ -20,7 +20,7 @@ _A list of beautiful WorkAdventure maps_
 
 - [Christmas forest](https://himeshaman.github.io/ChristMap/map.json) ([demo](https://play.workadventu.re/_/global/himeshaman.github.io/ChristMap/map.json) / [register](https://workadventu.re/getting-started?mapUrl=https://himeshaman.github.io/ChristMap/map.json)) - A beautiful Christmas map in the forest, with Santa Claus
 - [Christmas market](https://github.com/workadventure/christmas-map) ([demo](https://play.workadventu.re/_/global/workadventure.github.io/christmas-map/map.json) / [register](https://workadventu.re/getting-started?mapUrl=https://workadventure.github.io/christmas-map/map.json)) - A beautiful Christmas market
-- [A dynamic map server](https://github.com/jonnytest1/workadventure-mapserver) ([demo](https://play.workadventu.re/_/global/pi4.e6azumuvyiabvs9s.myfritz.net/mapserver/rest/mapserver/site.json) - A server generating *dynamic maps* (!!!)
+- [A dynamic map server](https://github.com/jonnytest1/workadventure-mapserver) ([demo](https://play.workadventu.re/_/global/pi4.e6azumuvyiabvs9s.myfritz.net/mapserver/rest/mapserver/site.json) - A server generating _dynamic maps_ (!!!)
 
 ## Tilesets
 
@@ -39,6 +39,7 @@ _A list of tutorials / guides_
 - [Self-Hosting WorkAdventure in 7.2022](https://medium.com/@alan.max/self-hosting-workadventure-in-7-2022-8a192647a7f1)
 
 ## Extra-Features
+
 - 🚶‍♂️🔊 Step FX: This function adds footstep Sound-Effects to your Woka as you walk through the map. You can even define the material your Woka is walking on. Check out the repository [HERE](https://github.com/KomponentAB/stepFX)
 
 ## Bots
@@ -52,6 +53,9 @@ _A list of bots that can be added to your workadventure map_
 _A list of packages / libraries that can help you scripting your maps_
 
 - [simple-workadventure](https://www.npmjs.com/package/simple-workadventure) - a library which simplifies the Workadveture API to single line commands and adds extra features such as a Camera Zoom Button
+
+- [Visual Scipt Builder](https://github.com/klinshy/WA-visual-script-builder)
+- A comprehensive drag-and-drop visual programming interface for creating WorkAdventure map scripts without coding. This tool transforms complex TypeScript scripting into an intuitive block-based system similar to Scratch.
 
 ## Deployment
 
