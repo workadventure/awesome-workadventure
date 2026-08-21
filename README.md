@@ -64,6 +64,7 @@ Please note that the core team does not maintain these resources and supports on
 documented in the [official documentation](https://github.com/workadventure/workadventure/tree/master/contrib/docker).
 
 - [workadventure-k8s](https://github.com/klauserber/workadventure-k8s) - A helm chart to deploy workadventure on Kubernetes.
+- [Terraform stack for AWS & Azure](https://github.com/Arata1202/WorkAdventure) - A Terraform + Docker Compose stack to self-host WorkAdventure, bundling LiveKit, Matrix chat, Coturn and OIDC authentication.
 
 ## Contributing
 
