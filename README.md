@@ -41,6 +41,7 @@ _A list of tutorials / guides_
 ## Extra-Features
 
 - 🚶‍♂️🔊 Step FX: This function adds footstep Sound-Effects to your Woka as you walk through the map. You can even define the material your Woka is walking on. Check out the repository [HERE](https://github.com/KomponentAB/stepFX)
+- [workadventure-presence-notifier](https://github.com/Arata1202/workadventure-presence-notifier) - Periodically reports who is online in a self-hosted WorkAdventure instance to Slack.
 
 ## Bots
 
